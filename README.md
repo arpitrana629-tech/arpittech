@@ -1,2 +1,2 @@
-# arpittech
+# Random password generator
 Password Generator
